@@ -1,1 +1,25 @@
+WMS|Dabao|Cainiao: 370361/Mik4k388X!
 
+———————————————————————————————————————————————--------------
+
+BAU:
+- [ ] Grant access in dabao (FFM)
+- [ ] Barcode removal (FFM)
+    - [ ] Remove barcode 102
+- [ ] Non Owner (FFM)
+- [ ] Aone tickets (FFM)
+    - [ ] 2 tickets has bot been raised
+- [ ] 3PL support (TPT)
+- [ ] Push Transactions (TPT)
+- [ ] UAT Robot (TPT)
+- [ ] Issues
+
+Projects:
+- [ ] Project Durian (FFM)
+    - [x] Update WH locations
+        - [ ] Ask for updated contact number and warehouse time*
+    - [x] Update WH priority
+- [ ] Smart Putaway 2.0
+    - [ ] Update system configuration
+- [ ] New 3PL onboarding - Goget (TPT)
+- [x] RF Upgrade to 5.1.2 (FFM) - Finished on May 12th
