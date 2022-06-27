@@ -4,12 +4,12 @@ WMS|Dabao|Cainiao: 370361/Mik4k388X!
 
 BAU:
 - [ ] Grant access in dabao (FFM)
+    [ ] Buang 3 menu dari outbound (old menu)
 - [ ] Barcode removal (FFM)
-    - [ ] Remove barcode 102
 - [ ] Non Owner (FFM)
 - [ ] Aone tickets (FFM)
-    - [ ] 2 tickets has bot been raised
 - [ ] 3PL support (TPT)
+    [ ] Update port code JNT
 - [ ] Push Transactions (TPT)
 - [ ] UAT Robot (TPT)
 - [ ] Issues
@@ -17,8 +17,7 @@ BAU:
 Projects:
 - [ ] Project Durian (FFM)
     - [x] Update WH locations
-        - [ ] Ask for updated contact number and warehouse time*
-    - [x] Update WH priority
+        - [ ] Ask for updated contact number and warehouse time
 - [ ] Smart Putaway 2.0
     - [ ] Update system configuration
 - [ ] New 3PL onboarding - Goget (TPT)
