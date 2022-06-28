@@ -1,1 +1,5 @@
-TPT
+Repush scenario
+    1) No data found!
+        - check otm ada sendPickupRequest ke tak
+        - kalau tak ada, pergi LOP (OTM) - Delayed LM PU Request
+        - kalau tak ada, pergi Failed PU Request, then tekan Repush (download dan upload balik template)
