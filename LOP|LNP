@@ -1,6 +1,4 @@
-LOP
-
-Common Issues
+---------------------------- Common Issues ----------------------------
 
 1. Lost parcel
 
@@ -8,17 +6,16 @@ Common Issues
 - Send an email to the head of territory for approval of lost parcel
 - Raise tickets in GOC
 
+2. Update status to Handed_over_to_3PL
 
-Update app PIC
+- Check what is the current status in LOP and LNP
+    - Ask if they have tried to use Sort > 3PL Handover (this is the correct SOP)
+        - Try to do 
+- If LNP has successfully delivered (or status is with 3PL), can straight away raise ticket in GOC
+- If LNP status is still not with 3PL, need approval from HOT/HOR AND a copy of manifest (dont want excel)
 
-FM - Raj kumar, azwan adil
-LH - rozalimi
-LM - dzul
+---------------------------- Update app PIC ----------------------------
 
-
-
-
-
-What is run sheet, fleet
-
-Need to find out who to get approval
+FM - Raj kumar (376894), azwan adil
+LH - rozalimi (194124)
+LM - dzul (125821)

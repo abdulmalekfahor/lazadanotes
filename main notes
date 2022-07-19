@@ -1,10 +1,6 @@
-WMS|Dabao|Cainiao: 370361/Mik4k388X!
-
-———————————————————————————————————————————————--------------
-
+---------------------------- Daily Tasks ----------------------------
 BAU:
 - [ ] Grant access in dabao (FFM)
-    [ ] Buang 3 menu dari outbound (old menu)
 - [ ] Barcode removal (FFM)
 - [ ] Non Owner (FFM)
 - [ ] Aone tickets (FFM)
@@ -13,9 +9,37 @@ BAU:
 - [ ] UAT Robot (TPT)
 - [ ] Issues
 
+DAILY:
+- Check GOC ticket(s) status and ask for update
+
+19th july:
+- update master tracker
+
+20th july:
+- update AWB for pickupp (remove 2nd barcode)
+
+---------------------------- Projects Related ----------------------------
 Projects:
 - [ ] Project Durian (FFM)
 - [ ] Smart Putaway 2.0
-    - [ ] Update system configuration for all WH
+    - [ ] Remove old access
 - [ ] New 3PL onboarding - Goget (TPT)
 - [x] RF Upgrade to 5.1.2 (FFM) - Finished on May 12th
+
+PENDING:
+- Smart Putaway 2.0: Remove old access (just Putaway (PF) remaining for main WH)
+
+What did I learn?
+1. RF Upgrade to 5.1.2 (FFM)
+    - How to handle multiple stakeholders and ask them to follow timeline
+    - Maintain good relationships with all stakeholders so they are willing to help you
+
+2. Smart Putaway 2.0
+    - System configuration according to timeline 
+        - Add new Parameter Configuration
+        - Add and remove ACL
+
+3. Project Durian (FFM)
+    - System configuration according to timeline
+        - New WH creation
+
