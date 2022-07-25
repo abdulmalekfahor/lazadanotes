@@ -12,17 +12,20 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-19th july:
-- update master tracker
+22 july:
+- minta update LOP app
 
-20th july:
-- update AWB for pickupp (remove 2nd barcode)
+25 july:
+- tanya Amir Sabirin untuk approval RMS ACL
+
+26 july:
+- check emel hui ling pasal split package
+- remove old access for SP2.0
 
 ---------------------------- Projects Related ----------------------------
 Projects:
 - [ ] Project Durian (FFM)
 - [ ] Smart Putaway 2.0
-    - [ ] Remove old access
 - [ ] New 3PL onboarding - Goget (TPT)
 - [x] RF Upgrade to 5.1.2 (FFM) - Finished on May 12th
 
