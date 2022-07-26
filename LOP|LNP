@@ -5,6 +5,7 @@
 - Confirm that parcel is lost
 - Send an email to the head of territory for approval of lost parcel
 - Raise tickets in GOC
+- *Might be obsolete as they can do themselves (LOP > Exception Handling > Lost Parcel V1/V2?)
 
 2. Update status to Handed_over_to_3PL
 
@@ -13,6 +14,12 @@
         - Try to do 
 - If LNP has successfully delivered (or status is with 3PL), can straight away raise ticket in GOC
 - If LNP status is still not with 3PL, need approval from HOT/HOR AND a copy of manifest (dont want excel)
+
+3. LOP Mobile App
+
+- Kill and force stop app 
+- Report the issue, provide name and ID of the courier
+- Report to dev (Phat Nguyen)
 
 ---------------------------- Update app PIC ----------------------------
 

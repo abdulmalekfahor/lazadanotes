@@ -12,25 +12,26 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-22 july:
-- minta update LOP app
-
 25 july:
 - tanya Amir Sabirin untuk approval RMS ACL
 
-26 july:
+27 july:
 - check emel hui ling pasal split package
-- remove old access for SP2.0
+- isu Muhaimin - error masa register
+
+1 August:
+- Ask/remind Phat to turn on visibility of Lex Mobile App for version 3.22.1 in google playstore
 
 ---------------------------- Projects Related ----------------------------
 Projects:
+- [ ] Package Split Revamp (FFM)
 - [ ] Project Durian (FFM)
-- [ ] Smart Putaway 2.0
 - [ ] New 3PL onboarding - Goget (TPT)
+- [x] Smart Putaway 2.0 - Finished on July 29th
 - [x] RF Upgrade to 5.1.2 (FFM) - Finished on May 12th
 
 PENDING:
-- Smart Putaway 2.0: Remove old access (just Putaway (PF) remaining for main WH)
+- Package Split Revamp - read & understand
 
 What did I learn?
 1. RF Upgrade to 5.1.2 (FFM)
@@ -41,6 +42,7 @@ What did I learn?
     - System configuration according to timeline 
         - Add new Parameter Configuration
         - Add and remove ACL
+        - Troubleshoot errors (turn on temporarily old access, resolve issue with new access first)
 
 3. Project Durian (FFM)
     - System configuration according to timeline

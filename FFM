@@ -1,3 +1,17 @@
+---------------------------- Common Issues ----------------------------
+
+1. Order number not found at WMS/Dabao
+    - Check dekat order reverse, status dia apa (patut status WAREHOUSE_ACCEPTED) dan check WH mana
+    - Check dekat ASCP, apa LBX no dia
+    - Create ticket
+2. Issue with repick register
+    - Check stock available ke tak. Kalau tak, suggest untuk force ship/force delivery.
+    - Kalau stock available, check location dekat picking area (dan location tu sendiri memang mention picking)
+    - Try untuk register repick, kalau still error, raise GOC ticket
+3. Task stucked at Executing status eventhough Actual End Date exists
+    - Click on Data Sync
+
+
 ---------------------------- Notes ----------------------------
 
 Benda nak belajar: 
