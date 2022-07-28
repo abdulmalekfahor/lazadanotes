@@ -10,6 +10,8 @@
     - Try untuk register repick, kalau still error, raise GOC ticket
 3. Task stucked at Executing status eventhough Actual End Date exists
     - Click on Data Sync
+4. Error when trying to create Transfer Order
+    - check on inventory, whether it is available or not
 
 
 ---------------------------- Notes ----------------------------
