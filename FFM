@@ -12,6 +12,7 @@
     - Click on Data Sync
 4. Error when trying to create Transfer Order
     - check on inventory, whether it is available or not
+    - check whether SKU/MB exists at both WH or not
 
 
 ---------------------------- Notes ----------------------------
@@ -20,6 +21,7 @@ Benda nak belajar:
 
 1. IST
     1. Create account? Super user (https://booking-id.lazada.com/#login)
+2. Dengan Hui Ling - replenish strategy?
 
 Extra notes:
 

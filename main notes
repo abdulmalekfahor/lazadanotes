@@ -15,23 +15,24 @@ DAILY:
 25 july:
 - tanya Amir Sabirin untuk approval RMS ACL
 
-27 july:
-- check emel hui ling pasal split package
-- isu Muhaimin - error masa register
-
-28 july:
-- jad punya isu, update location
-- tanya raymond pasal emel PEN data fix 27 July 2022
-- tanya raymond/orang lain utk emel Requesting for Data Fix for 2020 - 2021 Parcels
-
 29 july:
-- tanya apa isu, dan minta pilot testing v3.22.2 dekat rajkumar dengan roza
+- tanya update pasal order PNF
+Order ID 2207213A3E51UA
+Synagie reference code: ENTMY1992DE-6937442
 
-1 August:
+3 August:
+- create ticket untuk Jad (check SKU and product location log)
+- setup split utk 110
 
+4 august:
+- check dengan nurzaham/otai, siapa yg dah install v3.22.2
+
+sebelum 10 August:
+- check nak buat Split ke tak (tanya orang WH)
 
 ---------------------------- Projects Related ----------------------------
 Projects:
+- [ ] 
 - [ ] Package Split Revamp (FFM)
 - [ ] Project Durian (FFM)
 - [ ] New 3PL onboarding - Goget (TPT)
