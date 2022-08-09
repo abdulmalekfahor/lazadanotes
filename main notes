@@ -12,20 +12,17 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-25 july:
-- tanya Amir Sabirin untuk approval RMS ACL
-
-29 july:
-- tanya update pasal order PNF
-Order ID 2207213A3E51UA
-Synagie reference code: ENTMY1992DE-6937442
-
-3 August:
-- create ticket untuk Jad (check SKU and product location log)
+9 august:
+- LBX004781332701368, check TO apa yg tak setel lagi
+- update https://file.alibaba-inc.com/f/92eda1f85537475e996b/
+- try print AWB 646023585836
+- check which steps can simplify/remove utk digital goods
+- J&T - check can remove middle barcode or not (esok kita remove)
+- zepto: check dah configure API ke belum
 - setup split utk 110
 
-4 august:
-- check dengan nurzaham/otai, siapa yg dah install v3.22.2
+10 august:
+- ask everyone to update nationwide for app version 3.22.2
 
 sebelum 10 August:
 - check nak buat Split ke tak (tanya orang WH)
