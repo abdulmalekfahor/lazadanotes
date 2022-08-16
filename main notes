@@ -12,32 +12,18 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-9 august:
-- LBX004781332701368, check TO apa yg tak setel lagi
+16 August:
 - update https://file.alibaba-inc.com/f/92eda1f85537475e996b/
-- try print AWB 646023585836
-- check which steps can simplify/remove utk digital goods
-- J&T - check can remove middle barcode or not (esok kita remove)
-- zepto: check dah configure API ke belum
-- setup split utk 110
-
-10 august:
-- ask everyone to update nationwide for app version 3.22.2
-
-sebelum 10 August:
-- check nak buat Split ke tak (tanya orang WH)
+- purchase inbound (44044393), tengok dan create ticket
 
 ---------------------------- Projects Related ----------------------------
 Projects:
 - [ ] 
 - [ ] Package Split Revamp (FFM)
 - [ ] Project Durian (FFM)
-- [ ] New 3PL onboarding - Goget (TPT)
+- [ ] New 3PL onboarding - Goget/Zepto? (TPT)
 - [x] Smart Putaway 2.0 - Finished on July 29th
 - [x] RF Upgrade to 5.1.2 (FFM) - Finished on May 12th
-
-PENDING:
-- Package Split Revamp - read & understand
 
 What did I learn?
 1. RF Upgrade to 5.1.2 (FFM)
