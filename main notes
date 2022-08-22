@@ -12,13 +12,20 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-16 August:
+18 August:
 - update https://file.alibaba-inc.com/f/92eda1f85537475e996b/
 - purchase inbound (44044393), tengok dan create ticket
+- check on TO issues from Hybrid to Subang (by Elyda)
+
+22 August:
+- check on Moorthy concern on SLA
+- update WH priority
+- simulate app isu (create test, and )
+- new yida to upload manifest for WH
+- new yida for 3PL/anyone to ask for unsync issues
 
 ---------------------------- Projects Related ----------------------------
 Projects:
-- [ ] 
 - [ ] Package Split Revamp (FFM)
 - [ ] Project Durian (FFM)
 - [ ] New 3PL onboarding - Goget/Zepto? (TPT)
@@ -39,4 +46,7 @@ What did I learn?
 3. Project Durian (FFM)
     - System configuration according to timeline
         - New WH creation
+
+4. Package Split Revamp
+    - System configuration according to timeline 
 

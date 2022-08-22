@@ -11,11 +11,16 @@
 3. Task stucked at Executing status eventhough Actual End Date exists
     - Click on Data Sync
 4. Error when trying to create Transfer Order
-    - check on inventory, whether it is available or not
-    - check whether SKU/MB exists at both WH or not
-
+    - check on inventory, whether it is available or not (dabao)
+    - check whether SKU/MB exists at both WH or not (dabao)
+    - check whether SKU is tied to flash sale or not (https://tinker.global-ipm.alibaba-inc.com/inventory-analysis)
+    - create ticket if all of the above are satisfied
 
 ---------------------------- Notes ----------------------------
+
+WH priority:
+
+Reverse WH - local WH - GFC - Lite1
 
 Benda nak belajar: 
 
