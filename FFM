@@ -4,17 +4,25 @@
     - Check dekat order reverse, status dia apa (patut status WAREHOUSE_ACCEPTED) dan check WH mana
     - Check dekat ASCP, apa LBX no dia
     - Create ticket
+
 2. Issue with repick register
     - Check stock available ke tak. Kalau tak, suggest untuk force ship/force delivery.
     - Kalau stock available, check location dekat picking area (dan location tu sendiri memang mention picking)
     - Try untuk register repick, kalau still error, raise GOC ticket
+
 3. Task stucked at Executing status eventhough Actual End Date exists
     - Click on Data Sync
+
 4. Error when trying to create Transfer Order
     - check on inventory, whether it is available or not (dabao)
     - check whether SKU/MB exists at both WH or not (dabao)
     - check whether SKU is tied to flash sale or not (https://tinker.global-ipm.alibaba-inc.com/inventory-analysis)
     - create ticket if all of the above are satisfied
+    
+5. Order stucked at Created (Order Status)
+    - Check dimension (whether it is too big)
+    - troubleshoot management (retry)
+    - manual pre-processing
 
 ---------------------------- Notes ----------------------------
 
