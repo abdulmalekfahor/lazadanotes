@@ -1,4 +1,4 @@
- ---------------------------- Daily Tasks ----------------------------
+---------------------------- Daily Tasks ----------------------------
 BAU:
 - [ ] Grant access in dabao (FFM)
 - [ ] Barcode removal (FFM)
@@ -12,16 +12,41 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-18 August:
-- update https://file.alibaba-inc.com/f/92eda1f85537475e996b/
+12 September:
+- clear test parcels (4 TN)
+    TESTMY111259087
+    TESTMY194599783
+    TESTMY137550815
+    TESTMY170611672
 
-01 september:
-- Ask some hubs to pilot v3.22.6? to test on issue with COD
-- Flash stress test
+20 September:
+- Ask everyone to update
+
+27 sept:
+- update grow!
+
+- clear test SKU
+- clear test orders
+
+- Fahamkan macam mana allocation utk warehouse
+
+---------------------------- Credentials ----------------------------
+
+ Lazada.com.my (Buyer)
+U : cbpmmytest2@protonmail.com 
+P : Lzdzz_20201
+
+
+Proton Mail (protonmail.com)
+U : cbpmmytest2@protonmail.com 
+P : Lzdzz_20201
+
+courier username: 9271917858 password: Rq11271931
 
 ---------------------------- Projects Related ----------------------------
 Projects:
-- [ ] Package Split Revamp (FFM)
+- [x] B2B TO Inbound After Outbound Shipped
+- [x] Package Split Revamp (FFM)
 - [ ] Project Durian (FFM)
 - [ ] New 3PL onboarding - Goget/Zepto? (TPT)
 - [x] Smart Putaway 2.0 - Finished on July 29th
@@ -43,5 +68,8 @@ What did I learn?
         - New WH creation
 
 4. Package Split Revamp
+    - System configuration according to timeline 
+
+5. B2B 
     - System configuration according to timeline 
 

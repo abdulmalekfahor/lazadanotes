@@ -24,6 +24,16 @@
     - troubleshoot management (retry)
     - manual pre-processing
 
+6. Unable to create Cycle Count
+    - Check SKU dekat location tu (tak boleh lebih 200, system tak allow)
+    - Check ada banyak adjustment order tak complete ke tak
+
+7. MCL orders
+    - Stucked at Packing Completed - make sure AWB available
+        - if available, create ticket
+
+8. [WFM] Error: Can not base Ali id find an unused dabao account
+
 ---------------------------- Notes ----------------------------
 
 WH priority:
