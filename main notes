@@ -12,23 +12,17 @@ BAU:
 DAILY:
 - Check GOC ticket(s) status and ask for update
 
-12 September:
-- clear test parcels (4 TN)
-    TESTMY111259087
-    TESTMY194599783
-    TESTMY137550815
-    TESTMY170611672
+21 Dec
+- GET UAT document for CPC page from another venture
+    - explore CPC
+- Try to do UAT for Lex buyer pickup schedule (https://yuque.antfin.com/yl7bf8/mvypvh/htgahc?singleDoc#)
 
-20 September:
-- Ask everyone to update
+- AWB universal
+    - identify which 3PL to be tested
+    - create test orders for all 3PL (if possible)
 
-27 sept:
-- update grow!
-
-- clear test SKU
-- clear test orders
-
-- Fahamkan macam mana allocation utk warehouse
+- complete test order: MYMPA084652782
+- review doc for 21st
 
 ---------------------------- Credentials ----------------------------
 
@@ -36,15 +30,21 @@ DAILY:
 U : cbpmmytest2@protonmail.com 
 P : Lzdzz_20201
 
-
 Proton Mail (protonmail.com)
 U : cbpmmytest2@protonmail.com 
 P : Lzdzz_20201
+
+FBL seller:
+URL: https://sellercenter.lazada.com.my/
+mcl.seller.payrecon@gmail.com
+ik4k388X!p
 
 courier username: 9271917858 password: Rq11271931
 
 ---------------------------- Projects Related ----------------------------
 Projects:
+- [ ] CR by LEX
+- [ ] NDD - Priority Delivery
 - [x] B2B TO Inbound After Outbound Shipped
 - [x] Package Split Revamp (FFM)
 - [ ] Project Durian (FFM)
@@ -72,4 +72,3 @@ What did I learn?
 
 5. B2B 
     - System configuration according to timeline 
-

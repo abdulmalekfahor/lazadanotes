@@ -20,12 +20,12 @@
     - create ticket if all of the above are satisfied
     
 5. Order stucked at Created (Order Status)
-    - Check dimension (whether it is too big)
+    - Check dimension (whether it is too big, or too heayv) -> check inner package based on owner
     - troubleshoot management (retry)
     - manual pre-processing
 
 6. Unable to create Cycle Count
-    - Check SKU dekat location tu (tak boleh lebih 200, system tak allow)
+    - Check SKU dekat location tu (tak boleh lebih 200, system tak allow) (Ledger > Location)
     - Check ada banyak adjustment order tak complete ke tak
 
 7. MCL orders
@@ -47,6 +47,9 @@ Benda nak belajar:
 2. Dengan Hui Ling
     2.1 replenish strategy?
     2.2 macam mana 3PL allocation, logic dekat belakang
+
+    --> 
+    1. How did Smart Putaway help
 
 Extra notes:
 
