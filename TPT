@@ -11,4 +11,6 @@
         - kalau tak ada, pergi LOP (OTM) - Delayed LM PU Request
         - kalau tak ada, pergi Failed PU Request, then tekan Repush (download dan upload balik template)
 
+2. For FM Lex, LM 3PL, if the parcel is already with 3PL, check with Ops (Aswary and Jay Shen) first whether can release or not
+
 ---------------------------- 3PL Integration ----------------------------
